@@ -6,7 +6,7 @@ I chose to do it on Amazon, because I know they, like Youtube (comment section) 
 
 But thats not the point. For these giant tech companies its a friendly game of cat and mouse, where I would for example, later down the line realize I need a VPN or to add more Selenium, but I could do this for 99.9% of Companies in a day.
 
-## web_scrappers.py: the bot
+## web_scrappers.py: the bot (6 example links below)
 ```yaml
 [
     {
