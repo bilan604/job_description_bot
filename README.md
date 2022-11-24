@@ -1,4 +1,4 @@
-# job_description_botnet
+# job_description_botnet | Web Scrapper & Crawler & DOS (Denial of Service) Attack
 I do not finish projects like these because its sort of morally ambiguous. Do you see where I am conflicted on?
 
 I chose to do it on Amazon, because I know they, like Youtube have obfuscation in place. I don't think it could really just be 80 lines of code to download all job description postings for all of Amazon.
