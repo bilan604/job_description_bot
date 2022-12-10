@@ -1,4 +1,4 @@
-# job_description_botnet | Web Scrapper & Crawler & DOS (Denial of Service) Attack
+# job_description_bot | Web Scrapper & Crawler & DOS (Denial of Service) Attack
 
 I do not pursue to expand projects like this because its morally ambiguous to write such code and gain such experience without initiative.
 
